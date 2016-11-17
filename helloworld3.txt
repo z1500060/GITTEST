@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hello
 world
 
 history
 rehistory
+=======
+hello
+>>>>>>> parent of 504bec5... add world
