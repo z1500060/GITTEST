@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 hello
+=======
+<<<<<<< HEAD
+hello
+world
+
+history
+rehistory
+=======
+hello
+>>>>>>> parent of 504bec5... add world
+>>>>>>> 2cacd2b0a0f60ba5d7d8699f7c85b4c5fce01461
